@@ -1,5 +1,6 @@
 ---
 layout: homepage
+title: "Feng's Academic Page"
 ---
 
 <h1 id="about-me"></h1>
@@ -33,5 +34,3 @@ I am currently a ...
 {% include_relative _includes/projects.md %}
 
 {% include_relative _includes/publications.md %}
-
-{% include_relative _includes/contact.md %}
