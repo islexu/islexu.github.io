@@ -34,6 +34,4 @@ I am currently a ...
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/conference.md %}
-
 {% include_relative _includes/contact.md %}
