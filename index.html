@@ -1,173 +1,73 @@
+<!-- index.html -->
 <!DOCTYPE html>
 <html>
 <head>
-    <meta charset="UTF-8">
-    <title>Feng Xu</title>
-    <style>
-        html, body {
-            background-color: #ffffff;
-            margin: 0;
-            padding: 0;
-            font-family: Georgia, serif;
-        }
-        
-        .container {
-            max-width: 960px;
-            margin: 30px auto;
-            padding: 10px 50px 30px;
-            background-color: #ffffff;
-        }
-        
-        h1, h2, h3 {
-            color: #3070B3;
-            margin-top: 0.7em;
-            margin-bottom: 0.5em;
-            padding-bottom: 0.2em;
-            line-height: 1.0;
-            padding-top: 0.5em;
-            border-bottom: 1px solid #aaaaaa;
-        }
-        
-        .top-section {
-            display: flex;
-            justify-content: space-between;
-            align-items: flex-start;
-            margin-bottom: 2em;
-        }
-        
-        .profile-info {
-            flex: 1;
-            padding-right: 2em;
-        }
-        
-        .profile-image {
-            width: 230px;
-        }
-        
-        .social-links img {
-            height: 40px;
-            margin-right: 10px;
-            margin-bottom: -3px;
-        }
-        
-        .nav-links a {
-            margin-right: 15px;
-            color: #3070B3;
-            text-decoration: none;
-            font-weight: bold;
-        }
-        
-        .tabs {
-            display: flex;
-            border-bottom: 1px solid #ddd;
-            margin-bottom: 20px;
-        }
-        
-        .tab {
-            padding: 10px 20px;
-            cursor: pointer;
-            border: none;
-            background: none;
-            color: #666;
-            font-size: 16px;
-        }
-        
-        .tab.active {
-            color: #3070B3;
-            border-bottom: 2px solid #3070B3;
-        }
-        
-        .tab-content {
-            display: none;
-        }
-        
-        .tab-content.active {
-            display: block;
-        }
-        
-        .footer {
-            text-align: center;
-            margin-top: 50px;
-            color: #999;
-        }
-        
-        a {
-            color: #3070B3;
-            text-decoration: none;
-        }
-        
-        a:hover {
-            text-decoration: underline;
-        }
-    </style>
+   <meta charset="UTF-8">
+   <title>Feng Xu</title>
+   <link rel="stylesheet" href="jemdoc.css">
 </head>
 <body>
-    <div class="container">
-        <div class="top-section">
-            <div class="profile-info">
-                <h1>Feng Xu</h1>
-                <h3>@ <a href="http://www.huawei.eu/">Huawei Munich Research Center</a></h3>
-                <p>
-                    Email1: AI.Feng.Xu@tum.de<br>
-                    Email2: AI.FengXu@huawei.com
-                </p>
-                <div class="social-links">
-                    <a href="https://scholar.google.com/..."><img src="./pics/google_scholar3.png" alt="Google Scholar"></a>
-                    <a href="https://github.com/islexu"><img src="./pics/github_s.jpg" alt="GitHub"></a>
-                    <a href="https://www.linkedin.com/in/islexu/"><img src="./pics/LinkedIn2.png" alt="LinkedIn"></a>
-                </div>
-            </div>
-            <img class="profile-image" src="./images/fengxu.jpg" alt="Feng Xu">
-        </div>
+   <div class="container">
+       <div class="card top-section">
+           <div class="profile-info">
+               <h1>Feng Xu</h1>
+               <h3>@ <a href="http://www.huawei.eu/">Huawei Munich Research Center</a></h3>
+               <p>
+                   Email1: AI.Feng.Xu@tum.de<br>
+                   Email2: AI.FengXu@huawei.com
+               </p>
+               <div class="social-links">
+                   <a href="https://scholar.google.com/..."><img src="./pics/google_scholar3.png" alt="Google Scholar"></a>
+                   <a href="https://github.com/islexu"><img src="./pics/github_s.jpg" alt="GitHub"></a>
+                   <a href="https://www.linkedin.com/in/islexu/"><img src="./pics/LinkedIn2.png" alt="LinkedIn"></a>
+               </div>
+           </div>
+           <img class="profile-image" src="./images/fengxu.jpg" alt="Feng Xu">
+       </div>
 
-        <div class="tabs">
-            <button class="tab active" onclick="openTab(event, 'publications')">Publications</button>
-            <button class="tab" onclick="openTab(event, 'news')">News</button>
-            <button class="tab" onclick="openTab(event, 'experience')">Experience</button>
-        </div>
+       <div class="card">
+           <div class="tabs">
+               <button class="tab active" onclick="openTab(event, 'publications')">Publications</button>
+               <button class="tab" onclick="openTab(event, 'news')">News</button>
+               <button class="tab" onclick="openTab(event, 'experience')">Experience</button>
+           </div>
 
-        <div id="publications" class="tab-content active">
-            <h2>Selected Publications</h2>
-            <!-- Copy your publications content here -->
-        </div>
+           <div id="publications" class="tab-content active">
+               <h2>Selected Publications</h2>
+           </div>
 
-        <div id="news" class="tab-content">
-            <h2>News</h2>
-            <!-- Copy your news content here -->
-        </div>
+           <div id="news" class="tab-content">
+               <h2>News</h2>
+           </div>
 
-        <div id="experience" class="tab-content">
-            <h2>Work Experience</h2>
-            <!-- Copy your experience content here -->
-        </div>
+           <div id="experience" class="tab-content">
+               <h2>Work Experience</h2>
+           </div>
+       </div>
 
-        <div class="footer">
-            <!-- <p>Last update: Jun. 9, 2024</p> -->
-			<div class="map-widget">
-				<div style="width:20%">
-					<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=5mjOEhIuU1-CNRjWzXHgDUNnScMBfEz8MZRkP9xR1mc"></script>
-				</div>
-			</div>
-        </div>
-    </div>
+       <div class="footer">
+           <div class="map-widget">
+               <div style="width:300px">
+                   <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=5mjOEhIuU1-CNRjWzXHgDUNnScMBfEz8MZRkP9xR1mc"></script>
+               </div>
+           </div>
+       </div>
+   </div>
 
-    <script>
-        function openTab(evt, tabName) {
-            var i, tabcontent, tablinks;
-            
-            tabcontent = document.getElementsByClassName("tab-content");
-            for (i = 0; i < tabcontent.length; i++) {
-                tabcontent[i].style.display = "none";
-            }
-            
-            tablinks = document.getElementsByClassName("tab");
-            for (i = 0; i < tablinks.length; i++) {
-                tablinks[i].className = tablinks[i].className.replace(" active", "");
-            }
-            
-            document.getElementById(tabName).style.display = "block";
-            evt.currentTarget.className += " active";
-        }
-    </script>
+   <script>
+       function openTab(evt, tabName) {
+           var i, tabcontent, tablinks;
+           tabcontent = document.getElementsByClassName("tab-content");
+           for (i = 0; i < tabcontent.length; i++) {
+               tabcontent[i].style.display = "none";
+           }
+           tablinks = document.getElementsByClassName("tab");
+           for (i = 0; i < tablinks.length; i++) {
+               tablinks[i].className = tablinks[i].className.replace(" active", "");
+           }
+           document.getElementById(tabName).style.display = "block";
+           evt.currentTarget.className += " active";
+       }
+   </script>
 </body>
 </html>
