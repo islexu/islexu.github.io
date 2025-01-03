@@ -1,0 +1,5 @@
+theme: jekyll-theme-minimal
+
+include:
+  - sitemap.xml
+  - robots.txt
