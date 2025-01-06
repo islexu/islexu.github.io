@@ -16,7 +16,7 @@ I am currently a ...
 ## Education
 - **Ph.D. in ...**
 - **M.Sc. in Medical Engineering and Assistance Systems**, 2022 - 2025, [TUM](https://www.tum.de/), Germany
-- **B.Sc. in Automotive Engineering and Dual Degree - Engineering and Bussiness Administration**, 2017 - 2021, [Nanjing Tech Univeristy](https://www.njtech.edu.cn/), China
+- **B.Sc. in Automotive Engineering and Dual Degree - Engineering and Bussiness Administration**, 2017 - 2021, [Beijing Institute of Univeristy](Beijing Institute of Technology), China
 
 ## Grants and Fellowships
 -
