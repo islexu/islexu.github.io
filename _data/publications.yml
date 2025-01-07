@@ -12,7 +12,7 @@ main:
   #   notes: Published
 
   - title: "TinyMLEdge: A Workflow for Deploying TinyML Models in Industrial Edge Devices"
-    authors: "Feng Xu, All Authors"
+    authors: "Feng Xu"
     conference: "2024 IEEE 22nd International Conference on Industrial Informatics (INDIN)"
     conference_short: "IEEE INDIN 2024"
     pdf: "https://ieeexplore.ieee.org/document/10774465"  # 替换为实际文章的 PDF 链接
