@@ -14,9 +14,7 @@ I am currently a ...
 - **Robot Simulation:** ...
 - **Robot Manipulation**
 
-## Publications
-
-{% raw %}{% include_relative _includes/publications.md %}{% endraw %}
+{% include_relative _includes/publications.md %}
 
 ## Education
 
@@ -35,6 +33,8 @@ I am currently a ...
 ## Certificates
 
 <!-- <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="343635de-7d0f-43ea-922d-432566a4b1e5" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script> -->
+
+{% include_relative _includes/publications.md %}
 
 {% include_relative _includes/news.md %}
 
