@@ -31,8 +31,8 @@ researchgate: ""
 
 # Images 
 avatar: ./assets/img/avatar.jpeg
-favicon: ./assets/img/favicon.png
-favicon_dark: ./assets/img/favicon-dark.png
+favicon: ./assets/img/favicon.ico
+favicon_dark: ./assets/img/favicon_dark.ico
 
 # Footnotes
 # Footnote
