@@ -16,26 +16,13 @@ I am currently a ...
 
 {% include_relative _includes/publications.md %}
 
-## Education
+<!-- ## Education
 
 - **Ph.D. in ...**
 - **M.Sc. in Medical Engineering and Assistance Systems**, 2022 - 2025, [TUM](https://www.tum.de/), Germany
-- **B.Sc. in Automotive Engineering and Dual Degree - Engineering and Bussiness Administration**, 2017 - 2021, [Beijing Institute of Technology](https://english.bit.edu.cn/), China
+- **B.Sc. in Automotive Engineering and Dual Degree - Engineering and Bussiness Administration**, 2017 - 2021, [Beijing Institute of Technology](https://english.bit.edu.cn/), China -->
 
-## Grants and Fellowships
 
--
+<!-- {% include_relative _includes/news.md %}
 
-## Professional Affiliations
-
--
-
-## Certificates
-
-<!-- <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="343635de-7d0f-43ea-922d-432566a4b1e5" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script> -->
-
-{% include_relative _includes/publications.md %}
-
-{% include_relative _includes/news.md %}
-
-{% include_relative _includes/projects.md %}
+{% include_relative _includes/projects.md %} -->
