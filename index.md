@@ -14,6 +14,8 @@ I am currently a ...
 - **Robot Simulation:** ...
 - **Robot Manipulation**
 
+## Publications
+
 {% include_relative _includes/publications.md %}
 
 ## Education
