@@ -16,7 +16,7 @@ I am currently a ...
 
 ## Publications
 
-{% include_relative _includes/publications.md %}
+{% raw %}{% include_relative _includes/publications.md %}{% endraw %}
 
 ## Education
 
