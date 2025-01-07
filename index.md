@@ -14,10 +14,12 @@ I am currently a ...
 - **Robot Simulation:** ...
 - **Robot Manipulation**
 
+{% include_relative _includes/publications.md %}
+
 ## Education
 - **Ph.D. in ...**
 - **M.Sc. in Medical Engineering and Assistance Systems**, 2022 - 2025, [TUM](https://www.tum.de/), Germany
-- **B.Sc. in Automotive Engineering and Dual Degree - Engineering and Bussiness Administration**, 2017 - 2021, [Beijing Institute of Univeristy](Beijing Institute of Technology), China
+- **B.Sc. in Automotive Engineering and Dual Degree - Engineering and Bussiness Administration**, 2017 - 2021, [Beijing Institute of Technology](https://english.bit.edu.cn/), China
 
 ## Grants and Fellowships
 -
@@ -32,5 +34,3 @@ I am currently a ...
 {% include_relative _includes/news.md %}
 
 {% include_relative _includes/projects.md %}
-
-{% include_relative _includes/publications.md %}
