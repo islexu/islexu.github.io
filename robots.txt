@@ -1,5 +1,6 @@
 User-agent: *
-Allow: index.html
+Allow: /
+
 Disallow: /assets/academicons/
 Disallow: /assets/css/
 Disallow: /assets/fonts/
@@ -15,4 +16,4 @@ Disallow: /.github/
 Disallow: /git-update.sh
 Disallow: /README.md
 
-Sitemap: https://https://www.cs.jhu.edu/~yyliu/sitemap.xml
+Sitemap: https://islexu.github.io/sitemap.xml
