@@ -6,8 +6,6 @@ title: "Feng's Academic Page"
 <h1 id="about-me"></h1>
 
 <h2 style="margin: 60px 0px 10px;">Short Bio</h2>
-
-I am currently a ...I am currently a ...I am currently a ...I am currently a ...I am currently a ...I am currently a ...I am currently a ...I am currently a ...I am currently a ...I am currently a ...I am currently a ...I am currently a ...I am currently a ...I am currently a ...I am currently a ...I am currently a ...I am currently a ...I am currently a ...I am currently a ...I am currently a ...I am currently a ...I am currently a ...I am currently a ...I am currently a ...I am currently a ...I am currently a ...I am currently a ...I am currently a ...I am currently a ...I am currently a ...I am currently a ...I am currently a ...I am currently a ...I am currently a ...I am currently a ...I am currently a ...I am currently a ...I am currently a ...I am currently a ...I am currently a ...I am currently a ...I am currently a ...I am currently a ...
 这是我的个人网站，用于展示我的项目和工作。
 
 ## Research Interest
