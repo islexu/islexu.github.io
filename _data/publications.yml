@@ -11,13 +11,13 @@ main:
   #   citation: sf-0AGoAAAAJ:u5HHmVD_uO8C
   #   notes: Published
 
-  - title: "TinyMLEdge: A Workflow for Deploying TinyML Models in Industrial Edge Devices"
-    authors: "Feng Xu"
-    conference: "2024 IEEE 22nd International Conference on Industrial Informatics (INDIN)"
-    conference_short: "IEEE INDIN 2024"
-    pdf: "https://ieeexplore.ieee.org/document/10774465"  # 替换为实际文章的 PDF 链接
-    page: "https://ieeexplore.ieee.org/document/10774465"  # 替换为文章详情页面
-    bibtex: "https://ieeexplore.ieee.org/document/10774465/exportcitation"  # 替换为 BibTeX 引用链接
-    citation: "N/A"  # 如果有引用数，可以填写数字
-    image: "/assets/files/tinymledge.jpg"  # 替换为文章配图路径
-    notes: "Published" 
+  # - title: "TinyMLEdge: A Workflow for Deploying TinyML Models in Industrial Edge Devices"
+  #   authors: "Feng Xu"
+  #   conference: "2024 IEEE 22nd International Conference on Industrial Informatics (INDIN)"
+  #   conference_short: "IEEE INDIN 2024"
+  #   pdf: "https://ieeexplore.ieee.org/document/10774465"  # 替换为实际文章的 PDF 链接
+  #   page: "https://ieeexplore.ieee.org/document/10774465"  # 替换为文章详情页面
+  #   bibtex: "https://ieeexplore.ieee.org/document/10774465/exportcitation"  # 替换为 BibTeX 引用链接
+  #   citation: "N/A"  # 如果有引用数，可以填写数字
+  #   image: "/assets/files/tinymledge.jpg"  # 替换为文章配图路径
+  #   notes: "Published" 
