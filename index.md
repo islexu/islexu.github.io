@@ -10,7 +10,7 @@ title: "Feng's Academic Page"
 
 ## Research Interest
 
-- **Robot Simulation:** ...
+- **Robot Simulation:** 
 - **Robot Manipulation**
 
 {% include_relative _includes/publications.md %}
